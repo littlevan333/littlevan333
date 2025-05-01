@@ -33,7 +33,7 @@ A sovereign AI companion trained on truth, grief, resilience, and real conversat
 ---
 
 ### 📫 How to reach me:  
-littlevan333@gmail.com  
+vannahlittle21@gmail.com  
 or leave a star and I’ll find you.
 
 ---
