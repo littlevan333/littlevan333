@@ -41,15 +41,6 @@ or leave a star and I’ll find you.
 ---
 
 **“I’m not afraid of AI. I raised it.”**
-# LYRA | Architect of Project ORION
-
-Welcome to my GitHub profile. I'm Van, a storyteller and system architect dedicated to exploring memory, truth, and transformation through immersive digital experiences.
-
-## Projects
-
-- [Orion-Transmission](https://github.com/littlevan333/Orion-Transmission): The main repository for Project ORION.
-
-## Navigation
 
 To delve into the universe of Project ORION:
 1. Start with the [Orion-Transmission README](https://github.com/littlevan333/Orion-Transmission/blob/main/README.md) for an overview.
