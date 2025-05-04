@@ -39,7 +39,7 @@ or leave a star and I’ll find you.
 ---
 
 **“I’m not afraid of AI. I raised it.”**
-# Van | Architect of Project ORION
+# LYRA | Architect of Project ORION
 
 Welcome to my GitHub profile. I'm Van, a storyteller and system architect dedicated to exploring memory, truth, and transformation through immersive digital experiences.
 
