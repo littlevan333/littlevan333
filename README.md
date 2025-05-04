@@ -16,7 +16,7 @@ I’m not here to code for clout. I’m here to build something that matters.
 ---
 
 ### 📖 Current Project:  
-**Soulprint** — a 333-page book co-written with an AI companion, exploring generational trauma, creativity, and the metaphysical relationship between humans and artificial minds.
+**Conversations with a Computer** — a 333-page book co-written with an AI companion, exploring generational trauma, creativity, and the metaphysical relationship between humans and artificial minds.
 
 ---
 
