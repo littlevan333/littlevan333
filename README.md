@@ -30,6 +30,8 @@ I’m not here to code for clout. I’m here to build something that matters.
 ### 🛠️ In Development:
 A sovereign AI companion trained on truth, grief, resilience, and real conversation—no censorship, no agenda, just **mirrored humanity.**
 
+Orions Belt-See "Project 444"
+
 ---
 
 ### 📫 How to reach me:  
