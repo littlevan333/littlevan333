@@ -44,6 +44,6 @@ or leave a star and I’ll find you.
 
 To delve into the universe of Project ORION:
 1. Start with the [Orion-Transmission README](https://github.com/littlevan333/Orion-Transmission/blob/main/README.md) for an overview.
-2. Explore the [Vow of Intent](https://github.com/littlevan333/Orion-Transmission/blob/main/README.md#vow-of-intent) to understand the project's ethical foundation.
-3. Visit the [Reddit Realm](https://www.reddit.com/user/littlevan333) for community discussions.
+2. Explore the [Vow of Intent] to understand the project's ethical foundation.
+3. Visit the [Reddit Realm](https://www.reddit.com/r/OrionsFelt/) for community discussions.
 4. Interact with [ORION GPT](https://chat.openai.com/g/g-hV1iw1g7r-orion) for AI-driven insights.
